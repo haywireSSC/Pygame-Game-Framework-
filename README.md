@@ -1,14 +1,14 @@
 # Pygame-Game-Framework-
 A demo of a framework to help making games using pygame.
 Features Include:
-Aseprite Animation Handling
-Collision Handling
-ECS(Entity-Component-System)
-Tileset splitting and loading
-Autotiling using a bitmask
-Simple vector class
-Fixed Framerate Physics
-Chunksystem for optimization
+* Aseprite Animation Handling
+* Collision Handling
+* ECS(Entity-Component-System)
+* Tileset splitting and loading
+* Autotiling using a bitmask
+* Simple vector class
+* Fixed Framerate Physics
+* Chunksystem for optimization
 
 Ignore the music - forgot to mute desktop audio in the recording.
 
