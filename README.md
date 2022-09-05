@@ -14,3 +14,6 @@ Ignore the music - forgot to mute desktop audio in the recording.
 
 
 https://user-images.githubusercontent.com/61930983/188482144-2da1e73a-559d-4134-94b7-13a484dd6f6d.mp4
+
+This game is inspired by a "game" I made using scratch, and moved to itch.io:
+https://haywiressc.itch.io/what-goes-around-comes-around
